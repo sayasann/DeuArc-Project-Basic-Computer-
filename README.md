@@ -5,6 +5,12 @@
 
 
 
+# ⚠️ License and Usage
+
+This project is shared for educational and personal portfolio purposes only.
+Copying, distribution, or use of this project without explicit permission is strictly prohibited.
+
+
 
 This project was developed as part of the CME2206 Computer Architecture course at Dokuz Eylul University. DEUARC (DEU Electronic Universal Automatic Reduced Computer) is designed to demonstrate the fundamental components and operational logic of a basic computer architecture.
 
@@ -91,10 +97,7 @@ Each instruction triggers specific micro-operations based on its opcode and the 
 2️⃣ Run simulations and capture waveform outputs for verification.
 3️⃣ Submit all simulation files for each lab session.
 
-# ⚠️ License and Usage
 
-This project is shared for educational and personal portfolio purposes only.
-Copying, distribution, or use of this project without explicit permission is strictly prohibited.
 
 # ✏️ Written by
 
