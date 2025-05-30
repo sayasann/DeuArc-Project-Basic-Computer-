@@ -1,7 +1,8 @@
 # DEUARC: DEU Electronic Universal Automatic Reduced Computer
 
 
-![DEUARC](https://github.com/user-attachments/assets/ec363474-f1eb-4c0a-95b8-ad35ba4435a7)
+![Ekran görüntüsü 2025-05-30 210325](https://github.com/user-attachments/assets/9b325575-d623-4fad-a85e-5331526640d2)
+
 
 
 
