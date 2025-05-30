@@ -1,7 +1,8 @@
 # DEUARC: DEU Electronic Universal Automatic Reduced Computer
 
 
-! (https://i.hizliresim.com/tkpddcc.png)
+![DEUARC](https://github.com/user-attachments/assets/ec363474-f1eb-4c0a-95b8-ad35ba4435a7)
+
 
 
 This project was developed as part of the CME2206 Computer Architecture course at Dokuz Eylul University. DEUARC (DEU Electronic Universal Automatic Reduced Computer) is designed to demonstrate the fundamental components and operational logic of a basic computer architecture.
