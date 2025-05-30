@@ -91,7 +91,7 @@ Each instruction triggers specific micro-operations based on its opcode and the 
 This project is shared for educational and personal portfolio purposes only.
 Copying, distribution, or use of this project without explicit permission is strictly prohibited.
 
-#✏️ Written by
+# ✏️ Written by
 
 
 Example:
