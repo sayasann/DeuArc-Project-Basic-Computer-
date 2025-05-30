@@ -2,10 +2,12 @@
 
 
 This project was developed as part of the CME2206 Computer Architecture course at Dokuz Eylul University. DEUARC (DEU Electronic Universal Automatic Reduced Computer) is designed to demonstrate the fundamental components and operational logic of a basic computer architecture.
-📌 Project Purpose
+
+# 📌 Project Purpose
 
 DEUARC is built with 9 registers, 3 memory units (instruction, data, and stack), an arithmetic and logic unit (ALU), a control unit (CU), and a common bus system. The goal is to provide hands-on experience on how these components work and communicate with each other.
-🏗️ General Structure
+
+# 🏗️ General Structure
 
     Registers:
 
@@ -40,12 +42,12 @@ DEUARC is built with 9 registers, 3 memory units (instruction, data, and stack),
     Control Unit:
     Decodes instructions and generates control signals to coordinate the execution of micro-operations in registers, memories, and the ALU.
 
-🔧 Tools Used
+# 🔧 Tools Used
 
     Quartus II:
     Used for simulation and design verification of the project.
 
-📜 Instruction Set
+# 📜 Instruction Set
 
 The instruction set is defined by a 4-bit opcode and a 1-bit Q bit, supporting 16 instructions.
 Here are some of the core instructions:
@@ -66,7 +68,8 @@ RET	1110	Returns PC from stack (POP)
 JMR	1111	Relative jump to an address offset
 
 Each instruction triggers specific micro-operations based on its opcode and the Q bit.
-🧩 Control Unit (CU)
+
+# 🧩 Control Unit (CU)
 
     Decodes instruction opcodes
 
@@ -76,22 +79,25 @@ Each instruction triggers specific micro-operations based on its opcode and the 
 
     Ensures proper sequencing of micro-operations
 
-💡 Usage
+
+# 💡 Usage
 
 1️⃣ Open the simulation files in Quartus II.
 2️⃣ Run simulations and capture waveform outputs for verification.
 3️⃣ Submit all simulation files for each lab session.
-⚠️ License and Usage
+
+# ⚠️ License and Usage
 
 This project is shared for educational and personal portfolio purposes only.
 Copying, distribution, or use of this project without explicit permission is strictly prohibited.
-✏️ Written by
 
-(Please fill in your own names below!)
+#✏️ Written by
+
+
 Example:
 
-    Author: Serkan [Your Last Name]
+    Author: Serkan Ayaşan & Orhan Rzayev
 
-    Course: CME2206 Computer Architecture
+    
 
-    Term: 2024-2025
+    
